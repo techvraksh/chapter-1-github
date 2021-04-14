@@ -1,4 +1,4 @@
-# Chapter-1-Github New Branch by [Pulkit Singh](https://PulkitSinghDev.tech)
+# Chapter-1-Github
 In this chapter we will be learning how to use github
 ## Github Org Members ( Not-updated )
 - Atilla ( [Github Profile](https://github.com/4tilla) )
