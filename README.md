@@ -11,3 +11,4 @@ In this chapter we will be learning how to use github
 - Srashti Jain ( [Github Profile](https://github.com/SiddhantGupta988) )
 - vishal23karedla ( [Github Profile](https://github.com/vishal23karedla) )
 - Vishal Jaiswal ( [Github Profile](https://github.com/vishaljaiswal5000) )
+- Nidhi Nivedita ( [Github Profile](https://github.com/NidhiNivedita6) )
